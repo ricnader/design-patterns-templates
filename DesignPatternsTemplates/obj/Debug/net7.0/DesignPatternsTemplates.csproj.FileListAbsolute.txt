@@ -1,0 +1,12 @@
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\bin\Debug\net7.0\DesignPatternsTemplates.deps.json
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\bin\Debug\net7.0\DesignPatternsTemplates.dll
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\bin\Debug\net7.0\DesignPatternsTemplates.pdb
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\DesignPatternsTemplates.csproj.AssemblyReference.cache
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\DesignPatternsTemplates.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\DesignPatternsTemplates.AssemblyInfoInputs.cache
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\DesignPatternsTemplates.AssemblyInfo.cs
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\DesignPatternsTemplates.csproj.CoreCompileInputs.cache
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\DesignPatternsTemplates.dll
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\refint\DesignPatternsTemplates.dll
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\DesignPatternsTemplates.pdb
+C:\git\design-patterns\DesignPatternsTemplates\DesignPatternsTemplates\obj\Debug\net7.0\ref\DesignPatternsTemplates.dll
