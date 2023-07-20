@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+fCZdYOuZhoW0ozlj6zsGl2oqf0Utjvsp1WExp2Kq/peUh1UfKMVAgWQ7A/DkGTVBYRSLhAHgmWJPDUFqgtqIQ==",
+  "dgSpecHash": "2JLui32Hgv6hhk9qMp0vpwlD98De1GpyhXuDY4gXp7gF2zvFgfjS8feE2WWtqC33i5C7C/QwYkgmx9W6sLpMYg==",
   "success": true,
-  "projectFilePath": "C:\\git\\design-patterns\\DesignPatternsTemplates\\SingletonTemplate.Console\\SingletonTemplate.Console.csproj",
+  "projectFilePath": "C:\\git\\design-patterns\\design-patterns-templates\\SingletonTemplate.Console\\SingletonTemplate.Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

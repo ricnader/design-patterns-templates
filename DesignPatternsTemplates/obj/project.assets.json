@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\design-patterns\\DesignPatternsTemplates\\DesignPatternsTemplates\\DesignPatternsTemplates.csproj",
+      "projectUniqueName": "C:\\git\\design-patterns\\design-patterns-templates\\DesignPatternsTemplates\\DesignPatternsTemplates.csproj",
       "projectName": "DesignPatternsTemplates",
-      "projectPath": "C:\\git\\design-patterns\\DesignPatternsTemplates\\DesignPatternsTemplates\\DesignPatternsTemplates.csproj",
+      "projectPath": "C:\\git\\design-patterns\\design-patterns-templates\\DesignPatternsTemplates\\DesignPatternsTemplates.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\design-patterns\\DesignPatternsTemplates\\DesignPatternsTemplates\\obj\\",
+      "outputPath": "C:\\git\\design-patterns\\design-patterns-templates\\DesignPatternsTemplates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
