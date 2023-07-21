@@ -2,13 +2,11 @@
 
 namespace DesignPatternsTemplates.Factory
 {
-    public class UserFactory
+    public static class UsersFactory
     {
-        public static User[] Users { get; private set; }
-
-        public static User[] GetUsers() 
+        public static User[] Create() 
         {
-            Users = new User[3];
+            User[] Users = new User[3];
 
             Users[0] = new User() { 
                 Id= 1,
@@ -32,5 +30,7 @@ namespace DesignPatternsTemplates.Factory
 
             return Users;
         }
+
+                  
     }
 }

@@ -5,13 +5,11 @@ namespace DesignPatternsTemplates
 {
     public class UserSingleton
     {
-        public static UserSingleton Instance { get; private set; }
-        public static User[] Users = UserFactory.GetUsers();
+        private static UserSingleton Instance;
+        public static User[] Users = UsersFactory.Create();
 
         private UserSingleton()
         {}
-
-
 
         public static UserSingleton getInstance()
         {
@@ -22,7 +20,7 @@ namespace DesignPatternsTemplates
             return Instance;
         }
 
-        public  User GetById(int id) { return Users[id];}
+        public  User GetById(int id) => Users[id];
 
         public  User GetByName(string name)
         {
