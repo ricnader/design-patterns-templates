@@ -11,8 +11,4 @@
     <ProjectReference Include="..\DesignPatternsTemplates\DesignPatternsTemplates.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="PatternTests\" />
-  </ItemGroup>
-
 </Project>

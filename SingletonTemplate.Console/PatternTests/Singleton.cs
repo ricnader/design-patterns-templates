@@ -1,7 +1,7 @@
 ﻿using DesignPatternsTemplates;
 using System.Diagnostics;
 
-namespace SingletonTemplate.Console
+namespace SingletonTemplate.Console.PatternTests
 {
     public static class Singleton
     {
