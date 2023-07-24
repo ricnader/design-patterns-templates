@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DesignPatternsTemplates.Console/1.0.0": {
+        "dependencies": {
+          "DesignPatternsTemplates.Singleton": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatternsTemplates.Console.dll": {}
+        }
+      },
+      "DesignPatternsTemplates.Singleton/1.0.0": {
+        "runtime": {
+          "DesignPatternsTemplates.Singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternsTemplates.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatternsTemplates.Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
